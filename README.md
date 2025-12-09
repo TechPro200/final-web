@@ -1,3 +1,9 @@
+nombre: Angel Antonio Martinez Ventura
+matricula: 2024-0264
+
+<img width="1902" height="965" alt="image" src="https://github.com/user-attachments/assets/bfae0f66-0e57-49d3-aa13-eaa7179d7326" />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
