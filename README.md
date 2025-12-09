@@ -1,4 +1,4 @@
-nombre: Angel Antonio Martinez Ventura
+nombre: Angel Antonio Martinez Ventura <br>
 matricula: 2024-0264
 
 <img width="1902" height="965" alt="image" src="https://github.com/user-attachments/assets/bfae0f66-0e57-49d3-aa13-eaa7179d7326" />
